@@ -33,7 +33,7 @@ A web-based ordering system designed to streamline product browsing, order place
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/yourusername/ordering-system.git
+git clone https://github.com/Ewonn18/ordering-system.git
 cd ordering-system
 composer install
 cp .env.example .env
